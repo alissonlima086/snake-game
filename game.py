@@ -124,7 +124,7 @@ def gameLoop():
         pygame.display.update()
         
         if x1 == foodX and y1 == foodY:
-            print(Comeu")
+            print("Comeu")
         
         clock.tick(snakeSpeed)
 
